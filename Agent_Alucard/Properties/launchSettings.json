@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Agent_Alucard": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
